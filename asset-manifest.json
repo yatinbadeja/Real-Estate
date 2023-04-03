@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-developer/static/css/main.60de5b16.css",
+    "main.js": "/react-developer/static/js/main.c2016ac7.js",
+    "static/media/cardImage3.png": "/react-developer/static/media/cardImage3.9af36ef11fbfcb13b830.png",
+    "static/media/featuresImage2.png": "/react-developer/static/media/featuresImage2.eead0e42099cfbc53b3d.png",
+    "static/media/featuresImage1.png": "/react-developer/static/media/featuresImage1.fff2921a221f1f918e2e.png",
+    "static/media/cardImage5.png": "/react-developer/static/media/cardImage5.c3147535213a5bff60a0.png",
+    "static/media/cardImage9.png": "/react-developer/static/media/cardImage9.14cc684916a457a61140.png",
+    "static/media/mainBackground.png": "/react-developer/static/media/mainBackground.954989cecdc8732ce5ca.png",
+    "static/media/cardImage2.png": "/react-developer/static/media/cardImage2.79a264dc0860143dd582.png",
+    "static/media/cardImage1.png": "/react-developer/static/media/cardImage1.d1a0245bf2c6502bb67c.png",
+    "static/media/cardImage6.png": "/react-developer/static/media/cardImage6.2bcf8f9489852988da9c.png",
+    "static/media/cardImage4.png": "/react-developer/static/media/cardImage4.c60f042eb85b19ce2cb9.png",
+    "static/media/cardImage7.png": "/react-developer/static/media/cardImage7.be9a7f52f300951d05fc.png",
+    "static/media/cardImage8.png": "/react-developer/static/media/cardImage8.559f8e60b66c58611369.png",
+    "static/media/featureImageBg2.png": "/react-developer/static/media/featureImageBg2.16dd661dbbe4f4e62404.png",
+    "static/media/logoName.svg": "/react-developer/static/media/logoName.dc0ec30a3ecc985368f3eaf3922631e6.svg",
+    "static/media/Logo.svg": "/react-developer/static/media/Logo.368d8b2a8888b3203ecd99dc9a920cc8.svg",
+    "static/media/featureImageBg1.svg": "/react-developer/static/media/featureImageBg1.5e0d0ba9d533c8848017913b769f8b11.svg",
+    "index.html": "/react-developer/index.html",
+    "main.60de5b16.css.map": "/react-developer/static/css/main.60de5b16.css.map",
+    "main.c2016ac7.js.map": "/react-developer/static/js/main.c2016ac7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60de5b16.css",
+    "static/js/main.c2016ac7.js"
+  ]
+}
