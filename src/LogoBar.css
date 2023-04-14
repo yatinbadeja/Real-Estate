@@ -1,0 +1,16 @@
+.Logobar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: white;
+    padding: 50px 10px;
+    margin: 0px 3vw;
+    border-radius: 25px;
+    position: relative;
+    bottom: 60px;
+}
+@media (max-width:769px) {
+    .Logobar{
+        display: none;
+    }
+}

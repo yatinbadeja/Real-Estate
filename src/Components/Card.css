@@ -1,0 +1,45 @@
+.Details{
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+    background-color: whitesmoke;
+    width: 315px;
+    height: 121px;
+    border-radius: 20px;
+    padding: 15px 20px;
+    position: relative;
+    top: -60px;
+}
+.Card{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    
+}
+[alt="property"]{
+    border-radius: 20px;
+    width: 400px;
+    height: 365.991px;
+}
+@media (max-width:769px) {
+    [alt="property"]{
+        width: 80vw ;
+        height: 300px;
+    }
+    .Details{
+        width: 62vw;
+        align-items: center;
+    }
+    .price h1{
+        font-size: 30px;
+    }
+    .price h2{
+        font-size: 20px;
+    }
+}
+@media (min-width:770px) and (max-width:1240px) {
+    [alt="property"]{
+        width:320px;
+    }
+}
