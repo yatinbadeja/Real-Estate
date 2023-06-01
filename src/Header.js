@@ -1,5 +1,5 @@
 import './Header.css'
-import BackGroundImage from './Components/Photos/mainBackground.png'
+// import BackGroundImage from './Components/Photos/mainBackground.png'
 import Logo from './Components/Icons/Logo.svg'
 import Early from './Components/Early.js'
 function Header(){
