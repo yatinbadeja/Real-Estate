@@ -21,7 +21,6 @@ function Header(){
             </div>
 
             <hr style={{color:'white'}}/>
-
             <div className='Code'>
                 <h1 style={{fontSize:'72px',color:'white',paddingTop:'40px'}}>Homes That Makes <br></br> Your Living Life!</h1>
                 <p style={{color:'white',fontSize:'18px'}}>Are you looking for amazing Real estate? Don't <br/>worry! we got it for you</p>
