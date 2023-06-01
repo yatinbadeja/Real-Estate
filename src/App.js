@@ -20,7 +20,7 @@ import Gap from "./Components/gap.js";
 import Header from "./Header.js";
 import Bar from "./LogoBar.js";
 // import Woods from './Components/Photos/uZkQ64.jpg'
-import Mode from "./Components/Mode.js";
+// import Mode from "./Components/Mode.js";
 function App() {
   let Card = [
     {
@@ -71,7 +71,7 @@ function App() {
   ];
   return (
     <>
-      <Mode />
+      {/* <Mode /> */}
       <Header />
       <Bar />
       <Gap />
